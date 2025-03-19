@@ -118,7 +118,8 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 
 # LR PREDICT
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/610db60b-96c3-4c75-8694-7e7394d3e188)
+
 
 
 
